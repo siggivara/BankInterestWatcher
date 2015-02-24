@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankInterestWatcher", "BankInterestWatcher\BankInterestWatcher.csproj", "{07375DA9-A818-43F9-B122-541BE103511A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebScrapeEngine", "WebScrapeEngine\WebScrapeEngine.csproj", "{F6E4911A-203A-4464-BFDB-0A7E65059CCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07375DA9-A818-43F9-B122-541BE103511A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07375DA9-A818-43F9-B122-541BE103511A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07375DA9-A818-43F9-B122-541BE103511A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07375DA9-A818-43F9-B122-541BE103511A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6E4911A-203A-4464-BFDB-0A7E65059CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E4911A-203A-4464-BFDB-0A7E65059CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E4911A-203A-4464-BFDB-0A7E65059CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E4911A-203A-4464-BFDB-0A7E65059CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
